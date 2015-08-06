@@ -1,0 +1,47 @@
+h1{
+	color:red;
+
+}
+h3{
+	font-size: 80%;
+	background-color: green;
+}
+
+img{
+	width: 1000px;
+	margin-bottom: 10px;
+	border-color: red;
+
+}
+
+p{
+	font-size: 100px;
+}
+
+#greenItem {
+	color: green;
+}
+
+.blueItem {
+	color: blue;
+}
+
+.left{
+	float: left;
+
+	background-color: yellow;
+	background-size: 100px;
+	font-size:20px;
+	margin: 40px;
+	
+}
+
+.right{
+	float: right;
+
+}
+
+.clear{
+	clear: right,.;
+}
+
